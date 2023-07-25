@@ -2,7 +2,7 @@ import React from 'react';
 import Header from '../components/Header';
 import CategoryBar from '../components/CategoryBar';
 import OrderDetails from '../components/OrderDetails';
-import CategoryMenu from '../components/CategoryMenu';
+
 
 export default function MenuPage(props) {
     return (
